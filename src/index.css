@@ -2,5 +2,12 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   margin: auto;
   max-width: 38rem;
-  padding: 2rem;
+  color: #AACCFF;
+  -webkit-app-region: drag;
+}
+
+#renderer {
+  background-color: #222233;
+  border: 2px solid black;
+  border-radius: 20px;
 }
